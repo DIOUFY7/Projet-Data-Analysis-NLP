@@ -6,3 +6,5 @@ TSNE , TruncatedSVD, UMAP
 Kmeoids
 
 NLP
+
+Sentence VAE
